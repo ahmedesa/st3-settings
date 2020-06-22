@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[
+    	DB::table('${1}')->insert(array(
+    		array('${2}'=>'${3}'      ,'${4}'=>'${5}'),
+        ));    }
+]]></content>
+<tabTrigger>seeder</tabTrigger>
+<description>seeder</description>
+<scope>embedding.php, text.html.basic, meta.embedded.block.php, source.php, meta.class.php, meta.block.php, meta.function.php, meta.block.php</scope>
+</snippet>

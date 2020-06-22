@@ -1,0 +1,45 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"Blade Snippets",
+		"Bootstrap 4 Autocomplete",
+		"BracketHighlighter",
+		"CodeFormatter",
+		"Comment-Snippets",
+		"DocBlockr",
+		"DotENV",
+		"FileIcons",
+		"Git",
+		"HTML-CSS-JS Prettify",
+		"JS Snippets",
+		"Laravel 4 Artisan",
+		"Laravel 5 Snippets",
+		"Laravel Blade Highlighter",
+		"Materialize",
+		"Package Control",
+		"PHP Codebeautifier",
+		"PHP Companion",
+		"PHP Completions Kit",
+		"PHP Constructors",
+		"PHP CS Fixer",
+		"PHP Snippets",
+		"Phpcs",
+		"PHPIntel",
+		"PhpNamespace",
+		"PHPSnippets",
+		"Pretty JSON",
+		"ProjectManager",
+		"Quick File Creator",
+		"SideBarEnhancements",
+		"SnippetMaker",
+		"SublimeLinter",
+		"SublimeLinter-phpcs",
+		"Terminal"
+	]
+}

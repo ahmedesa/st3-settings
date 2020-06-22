@@ -1,0 +1,1106 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"roue",
+				"route\tmake route"
+			],
+			[
+				"Rou",
+				"Route::post\tBasic Post Route."
+			],
+			[
+				"a",
+				"approvalUrl\tabc"
+			],
+			[
+				"Re",
+				"Request\t(DonateController.php)"
+			],
+			[
+				"paym",
+				"payment\tabc"
+			],
+			[
+				"for",
+				"foreach\tforeach value"
+			],
+			[
+				"em",
+				"empty"
+			],
+			[
+				"or",
+				"organization\t(welcome.blade.php)"
+			],
+			[
+				"ora",
+				"organization\t(Payment.php)"
+			],
+			[
+				"orga",
+				"organization_id\tabc"
+			],
+			[
+				"pro",
+				"protected\t(Payment.php)"
+			],
+			[
+				"re",
+				"ret\treturn"
+			],
+			[
+				"tex",
+				"text-center\tabc"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"pay",
+				"payment_detailes\tabc"
+			],
+			[
+				"aler",
+				"alert-success \tBootstrap 4 Class"
+			],
+			[
+				"req",
+				"request\tabc"
+			],
+			[
+				"Pa",
+				"PayPal\tabc"
+			],
+			[
+				"rqe",
+				"request\tabc"
+			],
+			[
+				"clo",
+				"color\tproperty"
+			],
+			[
+				"form-c",
+				"form-control \tBootstrap 4 Class"
+			],
+			[
+				"form",
+				"form-group \tBootstrap 4 Class"
+			],
+			[
+				"cent",
+				"text-center \tBootstrap 4 Class"
+			],
+			[
+				"btn",
+				"btn-primary \tBootstrap 4 Class"
+			],
+			[
+				"btn-sc",
+				"btn-success \tBootstrap 4 Class"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/xampp/htdocs/paypal0/app/Http/Controllers/PaymentController.php",
+			"settings":
+			{
+				"buffer_size": 4188,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/paypal0/config/paypal.php",
+			"settings":
+			{
+				"buffer_size": 405,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/paypal0/.env",
+			"settings":
+			{
+				"buffer_size": 1063,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"form",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"for",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"ter",
+				"Terminal: Open"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Indexing Status"
+			],
+			[
+				"du",
+				"File: Duplicate"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"doc",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"scan",
+				"PHPIntel: Scan Project"
+			],
+			[
+				"sni",
+				"Snippet: include"
+			],
+			[
+				"phpcompan",
+				"Snippet: Determine if the request contains a non-empty value for an input item."
+			],
+			[
+				"phpinr",
+				"PHPCompanion:Insert Constructor Property"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"setti",
+				"Preferences: Settings"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"oprn",
+				"Project Manager: Open Project in New Window"
+			],
+			[
+				"web",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"ope",
+				"Project Manager: Open Project"
+			],
+			[
+				"op",
+				"Project Manager: Open Project"
+			],
+			[
+				"open",
+				"Project Manager: Open Project"
+			],
+			[
+				"proj op",
+				"Project: Edit Project"
+			],
+			[
+				"pro",
+				"Project Manager: Add New Project"
+			],
+			[
+				"project",
+				"Project Manager: Open Project"
+			],
+			[
+				"open pr",
+				"Project Manager: Open Project"
+			],
+			[
+				"re",
+				"Project Manager: Remove Project"
+			],
+			[
+				"code",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"PHP CodeBeautifier"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"te",
+				"Terminal: Open"
+			],
+			[
+				"phpcf",
+				"PHP CS Fixer: format this file"
+			],
+			[
+				"terminus",
+				"Terminus: List Shells"
+			],
+			[
+				"Terminus ",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"phpcs",
+				"PHP CS Fixer: format this file"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"phpc",
+				"PHPCompanion:Find Use"
+			],
+			[
+				"use",
+				"PHPCompanion:Find Use"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 206.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/paypal0",
+		"/C/xampp/htdocs/paypal0/app",
+		"/C/xampp/htdocs/paypal0/app/Http",
+		"/C/xampp/htdocs/paypal0/app/Http/Controllers",
+		"/C/xampp/htdocs/paypal0/config"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/paypal/routes/web.php",
+		"/C/xampp/htdocs/paypal/routes/api.php",
+		"/C/xampp/htdocs/paypal/app/Http/Controllers/DonateController.php",
+		"/C/xampp/htdocs/paypal/database/seeds/OrganizationSeed.php",
+		"/C/xampp/htdocs/paypal0/.env",
+		"/C/xampp/htdocs/paypal/app/Utilities/Paypal.php",
+		"/C/xampp/htdocs/paypal0/app/Http/Controllers/PaymentController.php",
+		"/C/xampp/htdocs/paypal/app/Http/Requests/DonationRequest.php",
+		"/C/xampp/htdocs/paypal0/routes/web.php",
+		"/C/xampp/htdocs/paypal0/config/paypal.php",
+		"/C/xampp/htdocs/paypal0/.env.example",
+		"/C/xampp/htdocs/paypal/.env",
+		"/C/xampp/htdocs/paypal0/app/Http/Controllers/DonateController.php",
+		"/C/xampp/htdocs/paypal0/app/Payment.php",
+		"/C/xampp/htdocs/paypal/app/Services/PaymentService.php",
+		"/C/xampp/htdocs/paypal/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/Payee.php",
+		"/C/xampp/htdocs/paypal/app/Providers/AuthServiceProvider.php",
+		"/C/xampp/htdocs/paypal/vendor/facade/flare-client-php/src/Api.php",
+		"/C/xampp/htdocs/paypal/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/Payment.php",
+		"/C/xampp/htdocs/paypal/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/Payer.php",
+		"/C/xampp/htdocs/paypal/webpack.mix.js",
+		"/C/xampp/htdocs/paypal/vendor/nikic/php-parser/lib/PhpParser/BuilderFactory.php",
+		"/C/xampp/htdocs/paypal/vendor/laravel/framework/src/Illuminate/Foundation/Testing/RefreshDatabase.php",
+		"/C/xampp/htdocs/paypal/phpunit.xml",
+		"/C/xampp/htdocs/paypal/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/PrivateLabelCard.php",
+		"/C/xampp/htdocs/paypal/vendor/sebastian/type/tests/unit/TypeTest.php",
+		"/C/xampp/htdocs/paypal/vendor/sebastian/type/src/SimpleType.php",
+		"/C/xampp/htdocs/laravel.io/app/Http/Controllers/Admin/AdminController.php",
+		"/C/xampp/htdocs/laravel.io/app/Models/Tag.php",
+		"/C/xampp/htdocs/laravel.io/app/Http/Controllers/Admin/UsersController.php",
+		"/C/xampp/htdocs/laravel.io/app/Http/Controllers/Forum/TagsController.php",
+		"/C/xampp/htdocs/paypal/app/Http/Middleware/Authenticate.php",
+		"/C/xampp/htdocs/laravel.io/app/Http/Controllers/Forum/ThreadsController.php",
+		"/C/xampp/htdocs/laravel.io/resources/helpers.php",
+		"/C/xampp/htdocs/laravel.io/app/Http/Middleware/VerifyAdmins.php",
+		"/C/xampp/htdocs/laravel.io/app/Policies/UserPolicy.php",
+		"/C/xampp/htdocs/laravel.io/app/Helpers/HasSlug.php",
+		"/C/xampp/htdocs/laravel.io/app/Http/Middleware/SiteIndexing.php",
+		"/C/xampp/htdocs/laravel.io/app/Markdown/LeagueConverter.php",
+		"/C/xampp/htdocs/laravel.io/app/Markdown/Converter.php",
+		"/C/xampp/htdocs/laravel.io/app/Queries/SearchUsers.php",
+		"/C/xampp/htdocs/laravel.io/app/User.php",
+		"/C/xampp/htdocs/laravel.io/app/Listeners/SendNewReplyNotification.php",
+		"/C/xampp/htdocs/laravel.io/app/Jobs/BanUser.php",
+		"/C/xampp/htdocs/laravel.io/app/Jobs/UpdateReply.php",
+		"/C/xampp/htdocs/laravel.io/app/Helpers/HasUuid.php",
+		"/C/xampp/htdocs/laravel.io/app/Helpers/ModelHelpers.php",
+		"/C/xampp/htdocs/laravel.io/app/Http/Livewire/LikeReply.php",
+		"/C/xampp/htdocs/laravel.io/app/Http/Middleware/RedirectIfBanned.php",
+		"/C/xampp/htdocs/laravel.io/routes/web.php",
+		"/C/xampp/htdocs/laravel.io/app/Models/SubscriptionAble.php",
+		"/C/xampp/htdocs/laravel.io/app/Models/Subscription.php",
+		"/C/xampp/htdocs/laravel.io/app/Policies/NotificationPolicy.php",
+		"/C/xampp/htdocs/laravel.io/app/Queries/SearchThreads.php",
+		"/C/xampp/htdocs/laravel.io/app/Policies/ThreadPolicy.php",
+		"/C/xampp/htdocs/laravel.io/app/Helpers/HasAuthor.php",
+		"/C/xampp/htdocs/laravel.io/app/Rules/PasscheckRule.php",
+		"/C/xampp/htdocs/laravel.io/app/Rules/HttpImageRule.php",
+		"/C/xampp/htdocs/laravel.io/app/Rules/DoesNotContainUrlRule.php",
+		"/C/xampp/htdocs/laravel.io/app/Social/GithubUser.php",
+		"/C/xampp/htdocs/laravel.io/database/migrations/2013_09_17_113019_create_users_table.php",
+		"/C/xampp/htdocs/paypal/app/Libraries/Paypal.php",
+		"/C/xampp/htdocs/games/app/Http/Controllers/PostsController.php",
+		"/C/xampp/htdocs/games/app/Events/ProfileWasCreated.php",
+		"/C/xampp/htdocs/games/app/Queries/CommunityLinksQuery.php",
+		"/C/xampp/htdocs/games/app/Http/Controllers/ActivitiesController.php",
+		"/C/xampp/htdocs/games/app/User.php",
+		"/C/xampp/htdocs/games/app/Http/Controllers/ProductsController.php",
+		"/C/xampp/htdocs/games/app/Events/PostWasCreated.php",
+		"/C/xampp/htdocs/games/app/Events/SupportWasSent.php",
+		"/C/xampp/htdocs/games/app/Events/CheckoutWasCompleted.php",
+		"/C/xampp/htdocs/games/app/Events/MessageDeleted.php",
+		"/C/xampp/htdocs/games/app/Events/ProductWasUpdated.php",
+		"/C/xampp/htdocs/games/app/Events/MessageSent.php",
+		"/C/xampp/htdocs/games/app/Http/Flash.php",
+		"/C/xampp/htdocs/games/app/Http/Controllers/Admin/PostsController.php",
+		"/C/xampp/htdocs/games/app/Policies/ProductPolicy.php",
+		"/C/xampp/htdocs/games/app/Policies/PostPolicy.php",
+		"/C/xampp/htdocs/games/app/Jobs/SendReminderEmail.php",
+		"/C/xampp/htdocs/paypal/vendor/laravel/framework/src/Illuminate/Foundation/Console/PolicyMakeCommand.php",
+		"/C/xampp/htdocs/paypal/resources/views/donation.blade.php",
+		"/C/xampp/htdocs/paypal/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/PaymentExecution.php",
+		"/C/xampp/htdocs/paypal/vendor/paypal/rest-api-sdk-php/lib/PayPal/Rest/ApiContext.php",
+		"/C/xampp/htdocs/paypal/vendor/paypal/rest-api-sdk-php/lib/PayPal/Core/PayPalConfigManager.php",
+		"/C/xampp/htdocs/paypal/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/FuturePayment.php",
+		"/C/xampp/htdocs/paypal/.gitignore",
+		"/C/xampp/htdocs/paypal/.phpintel/25fa4c914e9d4f456600ecb566882618",
+		"/C/xampp/htdocs/paypal/vendor/paypal/rest-api-sdk-php/lib/PayPal/Auth/OAuthTokenCredential.php",
+		"/C/xampp/htdocs/paypal/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/OpenIdTokeninfo.php",
+		"/C/xampp/htdocs/paypal/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/Amount.php",
+		"/C/xampp/htdocs/paypal/config/paypal.php",
+		"/C/xampp/htdocs/paypal/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/PaymentHistory.php",
+		"/C/xampp/htdocs/paypal/vendor/ramsey/collection/src/Tool/TypeTrait.php",
+		"/C/xampp/htdocs/paypal/vendor/ramsey/uuid/src/DeprecatedUuidInterface.php",
+		"/C/xampp/htdocs/paypal/vendor/ramsey/uuid/src/DegradedUuid.php",
+		"/C/xampp/htdocs/paypal/vendor/ramsey/uuid/src/DeprecatedUuidMethodsTrait.php",
+		"/C/xampp/htdocs/paypal/vendor/paypal/rest-api-sdk-php/lib/PayPal/Common/PayPalModel.php",
+		"/C/xampp/htdocs/paypal/vendor/paypal/rest-api-sdk-php/lib/PayPal/Validation/ArgumentValidator.php",
+		"/C/xampp/htdocs/paypal/app/Payment.php",
+		"/C/xampp/htdocs/paypal/app/Libraries/PaypalLibrary.php",
+		"/C/xampp/htdocs/paypal/resources/views/welcome.blade.php",
+		"/C/xampp/htdocs/paypal/resources/views/dontaion-conformation.blade.php",
+		"/C/xampp/htdocs/paypal/database/migrations/2020_06_15_113855_create_payments_table.php",
+		"/C/xampp/htdocs/paypal/app/Organization.php",
+		"/C/xampp/htdocs/paypal/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php",
+		"/C/xampp/htdocs/paypal/database/migrations/2020_06_18_084152_create_organizations_table.php",
+		"/C/xampp/htdocs/paypal/database/seeds/DatabaseSeeder.php",
+		"/C/xampp/htdocs/paypal/.env.example",
+		"/C/xampp/htdocs/paypal/app/User.php",
+		"/C/Users/HP/AppData/Roaming/Sublime Text 3/Packages/User/Projects/paypal.sublime-project",
+		"/C/Users/HP/AppData/Roaming/Sublime Text 3/Packages/User/Projects/applepay.sublime-project",
+		"/C/xampp/htdocs/applepay/resources/views/welcome.blade.php",
+		"/C/xampp/htdocs/applepay/app/Libraries/PaypalLibrary.php",
+		"/C/xampp/htdocs/applepay/routes/web.php",
+		"/C/xampp/htdocs/applepay/app/Payment.php",
+		"/C/xampp/htdocs/paypal1/app/Http/Controllers/PaymentController.php",
+		"/C/xampp/htdocs/paypal1/database/migrations/2020_06_15_113855_create_payments_table.php",
+		"/C/xampp/htdocs/paypal/resources/views/dontaion-fail.blade.php",
+		"/C/xampp/htdocs/paypal/app/Services/PaypalService.php",
+		"/C/xampp/htdocs/paypal0/resources/views/welcome.blade.php",
+		"/C/xampp/htdocs/paypal/vendor/omnipay/common/src/Common/CreditCard.php",
+		"/C/xampp/htdocs/paypal/app/Http/Controllers/PaymentController.php",
+		"/C/xampp/htdocs/paypal/vendor/omnipay/paypal/src/ExpressGateway.php",
+		"/C/xampp/htdocs/paypal/vendor/omnipay/common/src/Omnipay.php",
+		"/C/xampp/htdocs/paypal/vendor/omnipay/common/src/Common/AbstractGateway.php",
+		"/C/xampp/htdocs/paypal/vendor/omnipay/common/src/Common/Helper.php",
+		"/C/xampp/htdocs/paypal/vendor/symfony/http-foundation/Session/Attribute/AttributeBag.php",
+		"/C/xampp/htdocs/paypal/vendor/omnipay/common/src/Common/Http/Exception.php"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"$donation",
+			"donation",
+			"config('paypal.account.Currency')",
+			"donate",
+			"amount",
+			"protected",
+			"\n        ",
+			"payment_detailes",
+			"request",
+			"syncTags",
+			"intent",
+			"Intent",
+			"intent",
+			"Intent",
+			"intent",
+			"sale",
+			"paymentId",
+			"paypal_library",
+			"<?php\n\nnamespace App;\n\nuse Illuminate\\Database\\Eloquent\\Model;\n\nclass Organization extends Model\n{\n    protected $table    = 'organizations';\n    protected $fillable = [\n        'name',\n        'email',\n    ];\n\n    public function payment()\n    {\n        return $this->hasMany(Payment::class);\n    }\n}\n",
+			"for_whom",
+			"User",
+			"Payment",
+			"payment",
+			"Payment",
+			"payment",
+			"Currency",
+			"USD",
+			"conf",
+			"USD",
+			"PaymentMethodTokenRecipient ",
+			"payment",
+			"div",
+			"forwhome",
+			"users",
+			"payment_detailes",
+			"arr_body",
+			"payment",
+			"payment_detailes",
+			"env"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/xampp/htdocs/paypal0/app/Http/Controllers/PaymentController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4188,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								577,
+								577
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										657,
+										658
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										541,
+										542
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 291.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/xampp/htdocs/paypal0/config/paypal.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 405,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								96,
+								96
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										96,
+										97
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/single_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										88,
+										89
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/xampp/htdocs/paypal0/.env",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1063,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1050,
+								1050
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/DotENV/DotENV.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 240.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 71.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "paypal.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"do",
+				"app\\Http\\Requests\\DonationRequest.php"
+			],
+			[
+				"pay",
+				"app\\Utilities\\Paypal.php"
+			],
+			[
+				"auths",
+				"app\\Providers\\AuthServiceProvider.php"
+			],
+			[
+				"dona",
+				"app\\Http\\Controllers\\DonateController.php"
+			],
+			[
+				"route/we",
+				"routes\\web.php"
+			],
+			[
+				"web",
+				"webpack.mix.js"
+			],
+			[
+				"RefreshDatabase",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Testing\\RefreshDatabase.php"
+			],
+			[
+				"unittest",
+				"vendor\\sebastian\\type\\tests\\unit\\TypeTest.php"
+			],
+			[
+				" phpunit.xml",
+				"phpunit.xml"
+			],
+			[
+				"lib/paypla",
+				"paypal\\vendor\\paypal\\rest-api-sdk-php\\lib\\PayPal\\Api\\PrivateLabelCard.php"
+			],
+			[
+				"polic",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\PolicyMakeCommand.php"
+			],
+			[
+				"donat",
+				"resources\\views\\dontaion-conformation.blade.php"
+			],
+			[
+				"we",
+				"routes\\web.php"
+			],
+			[
+				"pa",
+				"app\\Services\\PaymentService.php"
+			],
+			[
+				"paymen",
+				"app\\Payment.php"
+			],
+			[
+				"",
+				"app\\Http\\Controllers\\DonateController.php"
+			],
+			[
+				"requestdon",
+				"app\\Http\\Requests\\DonationRequest.php"
+			],
+			[
+				"w",
+				"resources\\views\\welcome.blade.php"
+			],
+			[
+				"welc",
+				"resources\\views\\welcome.blade.php"
+			],
+			[
+				"welco",
+				"resources\\views\\welcome.blade.php"
+			],
+			[
+				"requestd",
+				"vendor\\symfony\\http-kernel\\DataCollector\\RequestDataCollector.php"
+			],
+			[
+				"donarequset",
+				"app\\Http\\Requests\\DonationRequest.php"
+			],
+			[
+				"welcao",
+				"resources\\views\\welcome.blade.php"
+			],
+			[
+				"organ",
+				"app\\Organization.php"
+			],
+			[
+				"dontaion-conformation",
+				"resources\\views\\dontaion-conformation.blade.php"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"welcome",
+				"resources\\views\\welcome.blade.php"
+			],
+			[
+				"wel",
+				"resources\\views\\welcome.blade.php"
+			],
+			[
+				"welcom",
+				"resources\\views\\welcome.blade.php"
+			],
+			[
+				"TraitsPayPalHttpClient",
+				"vendor\\srmklive\\paypal\\src\\Traits\\PayPalHttpClient.php"
+			],
+			[
+				"app",
+				"test\\config\\app.php"
+			],
+			[
+				"Thread",
+				"laravel.io\\app\\Models\\Thread.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 354.0,
+		"last_filter": "pay",
+		"selected_items":
+		[
+			[
+				"pay",
+				"Payee"
+			],
+			[
+				"payer",
+				"Payer"
+			]
+		],
+		"width": 640.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 266.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

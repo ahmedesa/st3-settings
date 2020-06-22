@@ -1,0 +1,10 @@
+{
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/Materialize/schemes/Material Behave.tmTheme",
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Material Behave.sublime-theme"
+}

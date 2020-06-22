@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+Route::${1:get}('/${2}', '${3}Controller@${4}')->name('${5}');
+]]></content>
+<tabTrigger>route</tabTrigger>
+<description>make route</description>
+<scope>embedding.php, text.html.basic, meta.embedded.block.php, source.php, meta.path.php, support.class.php</scope>
+</snippet>

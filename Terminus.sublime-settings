@@ -1,0 +1,7 @@
+{
+	    "default_config": {
+        "linux": null,    // login shell
+        "Cmder": null,      // login shell
+        "windows": "Command Prompt"
+    },
+}

@@ -1,0 +1,13 @@
+<snippet>
+<content><![CDATA[
+\$table->unsignedInteger('${1}');
+            \$table->foreign('${1}')
+                ->references('id')
+                ->on('${2}')
+                ->onDelete('cascade');
+
+]]></content>
+<tabTrigger>fk</tabTrigger>
+<description>forgin key migration</description>
+<scope>embedding.php, text.html.basic, meta.embedded.block.php, source.php, meta.class.php, meta.block.php, meta.function.php, meta.block.php, meta.function-call.php, meta.group.php, meta.function.php, meta.block.php, variable.other.php, punctuation.definition.variable.php</scope>
+</snippet>

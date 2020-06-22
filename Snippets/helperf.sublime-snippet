@@ -1,0 +1,13 @@
+<snippet>
+<content><![CDATA[
+if (!function_exists('${1}')) {
+    function ${1}()
+    {
+
+    }
+}
+]]></content>
+<tabTrigger>helperf</tabTrigger>
+<description>create function in helper class</description>
+<scope>embedding.php, text.html.basic, meta.embedded.block.php, source.php, keyword.control.php</scope>
+</snippet>

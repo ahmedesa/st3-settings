@@ -1,0 +1,7 @@
+[
+    { "keys": ["alt+i"], "command": "find_use" },
+    { "keys": ["alt+f"], "command": "implement" },
+    { "keys": ["alt+c"], "command": "insert_php_constructor_property" },
+
+
+]

@@ -1,0 +1,25 @@
+<snippet>
+    <content><![CDATA[
+<?php
+namespace ${2:App}\Repositories\\${1};
+
+use ${2:App}\\${1};
+use ${2:App}\Repositories\EloquentCrudRepository;
+
+class Eloquent$1Repository implements $1Interface
+{
+    /**
+     * Constructor
+     *
+     *  @param $1 \$model
+     */
+    public function __construct($1 \$model)
+    {
+        \$this->model = \$model;
+    }
+}
+]]></content>
+<tabTrigger>repository</tabTrigger>
+<description>repository</description>
+<scope>embedding.php, text.html.basic, meta.embedded.block.php, source.php, meta.class.php, meta.block.php, comment.line.double-slash.php, punctuation.definition.comment.php</scope>
+</snippet>

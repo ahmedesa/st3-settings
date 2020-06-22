@@ -1,0 +1,11 @@
+<snippet>
+<content><![CDATA[
+    public function ${1}(${2}): bool
+    {
+        return (${3} || ${3} && !${4};
+    }
+]]></content>
+<tabTrigger>policy</tabTrigger>
+<description>laravel policy</description>
+<scope>embedding.php, text.html.basic, meta.embedded.block.php, source.php, meta.class.php, meta.block.php</scope>
+</snippet>

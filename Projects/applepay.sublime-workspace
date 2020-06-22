@@ -1,0 +1,466 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"ret\treturn"
+			],
+			[
+				"tex",
+				"text-center\tabc"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"pro",
+				"protected\tabc"
+			],
+			[
+				"pay",
+				"payment_detailes\tabc"
+			],
+			[
+				"aler",
+				"alert-success \tBootstrap 4 Class"
+			],
+			[
+				"req",
+				"request\tabc"
+			],
+			[
+				"Pa",
+				"PayPal\tabc"
+			],
+			[
+				"rqe",
+				"request\tabc"
+			],
+			[
+				"clo",
+				"color\tproperty"
+			],
+			[
+				"form-c",
+				"form-control \tBootstrap 4 Class"
+			],
+			[
+				"form",
+				"form-group \tBootstrap 4 Class"
+			],
+			[
+				"cent",
+				"text-center \tBootstrap 4 Class"
+			],
+			[
+				"btn",
+				"btn-primary \tBootstrap 4 Class"
+			],
+			[
+				"btn-sc",
+				"btn-success \tBootstrap 4 Class"
+			],
+			[
+				"for",
+				"fore\tforeach"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"proj",
+				"Project Manager: Add New Project"
+			],
+			[
+				"ter",
+				"Terminal: Open"
+			],
+			[
+				"proj op",
+				"Project Manager: Open Project"
+			],
+			[
+				"pro",
+				"Project Manager: Add New Project"
+			],
+			[
+				"project",
+				"Project Manager: Open Project"
+			],
+			[
+				"open pr",
+				"Project Manager: Open Project"
+			],
+			[
+				"re",
+				"Project Manager: Remove Project"
+			],
+			[
+				"code",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"for",
+				"Formatter: Beautify With Beautysh"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Indexing Status"
+			],
+			[
+				"php",
+				"PHP CodeBeautifier"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"te",
+				"Terminal: Open"
+			],
+			[
+				"form",
+				"Formatter: Beautify With Beautysh"
+			],
+			[
+				"phpcf",
+				"PHP CS Fixer: format this file"
+			],
+			[
+				"terminus",
+				"Terminus: List Shells"
+			],
+			[
+				"Terminus ",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"phpcs",
+				"PHP CS Fixer: format this file"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"phpc",
+				"PHPCompanion:Find Use"
+			],
+			[
+				"use",
+				"PHPCompanion:Find Use"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/stripe"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/applepay/app/User.php",
+		"/C/xampp/htdocs/applepay/.env",
+		"/C/xampp/htdocs/applepay/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/xampp/htdocs/applepay/database/migrations/2020_06_15_113855_create_payments_table.php",
+		"/C/Users/HP/AppData/Roaming/Sublime Text 3/Packages/User/Projects/applepay.sublime-project",
+		"/C/Users/HP/AppData/Roaming/Sublime Text 3/Packages/User/Projects/paypal.sublime-project",
+		"/C/xampp/htdocs/applepay/resources/views/welcome.blade.php",
+		"/C/xampp/htdocs/applepay/app/Libraries/PaypalLibrary.php",
+		"/C/xampp/htdocs/applepay/routes/web.php",
+		"/C/xampp/htdocs/applepay/app/Payment.php",
+		"/C/xampp/htdocs/paypal/routes/web.php",
+		"/C/xampp/htdocs/paypal/config/paypal.php",
+		"/C/xampp/htdocs/paypal/app/Libraries/PaypalLibrary.php",
+		"/C/xampp/htdocs/paypal/resources/views/welcome.blade.php",
+		"/C/xampp/htdocs/paypal/app/Http/Controllers/DonateController.php",
+		"/C/xampp/htdocs/paypal/.env",
+		"/C/xampp/htdocs/paypal/app/Http/Requests/DonationRequest.php",
+		"/C/xampp/htdocs/paypal/app/Payment.php",
+		"/C/xampp/htdocs/paypal/resources/views/dontaion-conformation.blade.php",
+		"/C/xampp/htdocs/paypal/app/Services/PaymentService.php",
+		"/C/xampp/htdocs/paypal/database/migrations/2020_06_15_113855_create_payments_table.php",
+		"/C/xampp/htdocs/paypal1/app/Http/Controllers/PaymentController.php",
+		"/C/xampp/htdocs/paypal1/database/migrations/2020_06_15_113855_create_payments_table.php",
+		"/C/xampp/htdocs/paypal/resources/views/dontaion-fail.blade.php",
+		"/C/xampp/htdocs/paypal/app/Services/PaypalService.php",
+		"/C/xampp/htdocs/paypal0/resources/views/welcome.blade.php",
+		"/C/xampp/htdocs/paypal/vendor/omnipay/common/src/Common/CreditCard.php",
+		"/C/xampp/htdocs/paypal0/config/paypal.php",
+		"/C/xampp/htdocs/paypal/app/Http/Controllers/PaymentController.php",
+		"/C/xampp/htdocs/paypal0/.env",
+		"/C/xampp/htdocs/paypal/vendor/omnipay/paypal/src/ExpressGateway.php",
+		"/C/xampp/htdocs/paypal/vendor/omnipay/common/src/Omnipay.php",
+		"/C/xampp/htdocs/paypal/vendor/omnipay/common/src/Common/AbstractGateway.php",
+		"/C/xampp/htdocs/paypal/vendor/omnipay/common/src/Common/Helper.php",
+		"/C/xampp/htdocs/paypal/vendor/symfony/http-foundation/Session/Attribute/AttributeBag.php",
+		"/C/xampp/htdocs/paypal/vendor/omnipay/common/src/Common/Http/Exception.php",
+		"/C/xampp/htdocs/paypal/vendor/omnipay/common/src/Common/Http/ClientInterface.php",
+		"/C/xampp/htdocs/paypal/vendor/omnipay/paypal/tests/RestGatewayTest.php",
+		"/C/xampp/htdocs/paypal/resources/views/payment.blade.php",
+		"/C/xampp/htdocs/paypal/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/xampp/htdocs/test/resources/views/welcome.blade.php",
+		"/C/xampp/htdocs/test/app/Http/Controllers/PayPalController.php",
+		"/C/xampp/htdocs/test/routes/web.php",
+		"/C/xampp/htdocs/test/config/paypal.php",
+		"/C/xampp/htdocs/test/vendor/srmklive/paypal/src/Traits/PayPalHttpClient.php",
+		"/C/xampp/htdocs/test/.env",
+		"/C/xampp/htdocs/test/config/app.php",
+		"/C/xampp/htdocs/test/app/Http/Controllers/PaymentController.php",
+		"/C/xampp/htdocs/laravel.io/app/Jobs/ConfirmUser.php",
+		"/C/xampp/htdocs/laravel.io/app/Jobs/BanUser.php",
+		"/C/xampp/htdocs/laravel.io/app/Http/Controllers/SubscriptionController.php",
+		"/C/xampp/htdocs/test/app/User.php",
+		"/C/xampp/htdocs/test/app/Test.php",
+		"/C/xampp/htdocs/test/app/Http/Middleware/CheckForMaintenanceMode.php",
+		"/C/xampp/htdocs/test/routes/api.php",
+		"/C/xampp/htdocs/test/app/Http/Controllers/Controller.php",
+		"/C/xampp/htdocs/laravel.io/app/Http/Controllers/Controller.php",
+		"/C/xampp/htdocs/test/vendor/laravel/framework/src/Illuminate/Foundation/Bus/DispatchesJobs.php",
+		"/C/xampp/htdocs/laravel.io/app/Models/Thread.php",
+		"/C/xampp/htdocs/laravel.io/resources/macros/blade.php",
+		"/C/xampp/htdocs/test/app/Http/Middleware/TrustProxies.php",
+		"/C/Users/HP/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/C/xampp/htdocs/test/vendor/laravel/framework/src/Illuminate/Routing/Route.php",
+		"/C/Users/HP/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/HP/AppData/Roaming/Sublime Text 3/Packages/User/Terminal (Windows).sublime-settings",
+		"/C/xampp/htdocs/test/vendor/phpdocumentor/type-resolver/src/TypeResolver.php",
+		"/C/xampp/htdocs/test/app/Providers/T.php",
+		"/C/Users/HP/Desktop/test/app/User.php"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"PaymentMethodTokenRecipient ",
+			"payment",
+			"div",
+			"forwhome",
+			"users",
+			"payment_detailes",
+			"arr_body",
+			"payment",
+			"payment_detailes",
+			"env"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 71.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "applepay.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"welcome",
+				"resources\\views\\welcome.blade.php"
+			],
+			[
+				"w",
+				"resources\\views\\welcome.blade.php"
+			],
+			[
+				"welco",
+				"paypal\\resources\\views\\welcome.blade.php"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"wel",
+				"resources\\views\\welcome.blade.php"
+			],
+			[
+				"welcom",
+				"resources\\views\\welcome.blade.php"
+			],
+			[
+				"welc",
+				"resources\\views\\welcome.blade.php"
+			],
+			[
+				"pay",
+				"app\\Http\\Controllers\\PaymentController.php"
+			],
+			[
+				"web",
+				"routes\\web.php"
+			],
+			[
+				"",
+				".env"
+			],
+			[
+				"TraitsPayPalHttpClient",
+				"vendor\\srmklive\\paypal\\src\\Traits\\PayPalHttpClient.php"
+			],
+			[
+				"app",
+				"test\\config\\app.php"
+			],
+			[
+				"Thread",
+				"laravel.io\\app\\Models\\Thread.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 433.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

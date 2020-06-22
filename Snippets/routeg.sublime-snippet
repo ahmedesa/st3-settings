@@ -1,0 +1,11 @@
+<snippet>
+<content><![CDATA[
+Route::group(['middleware' => [${1}]], function() {
+
+
+});
+]]></content>
+<tabTrigger>routeg</tabTrigger>
+<description>route group</description>
+<scope>embedding.php, text.html.basic, meta.embedded.block.php, source.php, meta.path.php, support.class.php</scope>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+<content><![CDATA[
+    public function ${1}()
+    {
+        return \$this->hasMany(${2}::class);
+    }
+]]></content>
+<tabTrigger>rhasmany</tabTrigger>
+<description>relation hasmeny</description>
+<scope>embedding.php, text.html.basic, meta.embedded.block.php, source.php, meta.class.php, meta.block.php</scope>
+</snippet>

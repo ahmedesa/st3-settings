@@ -1,0 +1,19 @@
+<snippet>
+<content><![CDATA[
+    protected static function boot()
+    {
+        parent::boot();
+
+        static::updated(function () {
+            ${1}
+        });
+
+        static::created(function () {
+            ${2}
+        });
+    }
+]]></content>
+<tabTrigger>obs</tabTrigger>
+<description>model observers</description>
+<scope>embedding.php, text.html.basic, meta.embedded.block.php, source.php, meta.class.php, meta.block.php</scope>
+</snippet>
