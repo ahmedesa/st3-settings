@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"Alignment",
 		"All Autocomplete",
 		"Blade Snippets",
 		"Bootstrap 4 Autocomplete",
@@ -26,7 +27,6 @@
 		"PHP Codebeautifier",
 		"PHP Companion",
 		"PHP Completions Kit",
-		"PHP Constructors",
 		"PHP CS Fixer",
 		"PHP Snippets",
 		"Phpcs",
@@ -40,6 +40,7 @@
 		"SnippetMaker",
 		"SublimeLinter",
 		"SublimeLinter-phpcs",
-		"Terminal"
+		"Terminal",
+		"Vue Syntax Highlight"
 	]
 }
