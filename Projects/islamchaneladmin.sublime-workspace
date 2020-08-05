@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"role",
+				"rolePermissions\tabc"
+			],
+			[
+				"S",
+				"SuccessMessage\tabc"
+			],
+			[
 				"req",
 				"request\tabc"
 			],
@@ -102,10 +110,6 @@
 			[
 				"ro",
 				"role\tabc"
-			],
-			[
-				"role",
-				"roles\tabc"
 			],
 			[
 				"perm",
@@ -510,39 +514,25 @@
 			[
 				"tr",
 				"transaction\t(DonationController.php)"
-			],
-			[
-				"Donationr",
-				"DonationRequest\t(DonationRequest.php)"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/views/admin/campaigns/AddNewCampaignDialog.vue",
+			"file": "/C/xampp/htdocs/ISG/islamchaneladmin/app/Http/Controllers/Api/Admin/CharityController.php",
 			"settings":
 			{
-				"buffer_size": 20094,
+				"buffer_size": 7112,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
+				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/views/admin/campaigns/CampaignImagesDialog.vue",
+			"file": "/C/xampp/htdocs/ISG/islamchaneladmin/routes/admin/charities.php",
 			"settings":
 			{
-				"buffer_size": 11798,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/ISG/islamchaneladmin/app/Http/Controllers/Api/Admin/CampaignController.php",
-			"settings":
-			{
-				"buffer_size": 4271,
-				"encoding": "UTF-8",
+				"buffer_size": 1185,
 				"line_ending": "Unix"
 			}
 		}
@@ -563,6 +553,14 @@
 				"CodeFormatter: Format Code"
 			],
 			[
+				"sublime l",
+				"SublimeLinter: Quick Action"
+			],
+			[
+				"for",
+				"CodeFormatter: Format Code"
+			],
+			[
 				"ter",
 				"Terminal: Open"
 			],
@@ -572,10 +570,6 @@
 			],
 			[
 				"forma",
-				"CodeFormatter: Format Code"
-			],
-			[
-				"for",
 				"CodeFormatter: Format Code"
 			],
 			[
@@ -806,6 +800,9 @@
 		"height": 206.0,
 		"history":
 		[
+			"clear",
+			"exit",
+			"n"
 		]
 	},
 	"distraction_free":
@@ -820,49 +817,78 @@
 	"expanded_folders":
 	[
 		"/C/xampp/htdocs/ISG/islamchaneladmin",
-		"/C/xampp/htdocs/ISG/islamchaneladmin/resources",
-		"/C/xampp/htdocs/ISG/islamchaneladmin/resources/js",
-		"/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/views",
-		"/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/views/admin",
-		"/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/views/admin/campaigns",
-		"/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/views/admin/users",
-		"/C/xampp/htdocs/islamchaneladminoriginal",
-		"/C/xampp/htdocs/islamchaneladminoriginal/app",
-		"/C/xampp/htdocs/islamchaneladminoriginal/app/Http",
-		"/C/xampp/htdocs/islamchaneladminoriginal/app/Http/Controllers",
-		"/C/xampp/htdocs/islamchaneladminoriginal/app/Http/Controllers/Api",
-		"/C/xampp/htdocs/islamchaneladminoriginal/app/Http/Controllers/Api/Admin"
+		"/C/xampp/htdocs/ISG/islamchaneladmin/app",
+		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Http",
+		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Http/Controllers",
+		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Http/Controllers/Api",
+		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Http/Controllers/Api/Admin"
 	],
 	"file_history":
 	[
-		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Http/Requests/UploadImageRequest.php",
-		"/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/views/admin/campaigns/CampaignImagesDialog.vue",
-		"/C/xampp/htdocs/islamchaneladminoriginal/app/Http/Controllers/Api/Admin/CampaignController.php",
+		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Http/Controllers/Api/Admin/TypeController.php",
+		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Http/Controllers/Api/Admin/RoleController.php",
+		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Http/Controllers/Api/Admin/MainSectionController.php",
+		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Http/Controllers/Api/Admin/AccountController.php",
+		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Http/Controllers/Api/Admin/AboutUsController.php",
 		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Http/Controllers/Api/Admin/CharityController.php",
+		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Policies/AdminPolicy.php",
+		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Policies/CharityPolicy.php",
+		"/C/xampp/htdocs/ISG/islamchaneladmin/database/seeds/RolesAndPermissionsSeeder.php",
+		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Charity.php",
+		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Http/Controllers/Api/Admin/AdminController.php",
+		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Http/Requests/RoleRequest.php",
+		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Policies/CampaignPolicy.php",
+		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Http/Controllers/Api/PublicWebsite/HomePageController.php",
+		"/C/xampp/htdocs/ISG/islamchaneladmin/routes/api.php",
+		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Http/Controllers/Api/Donor/DonorController.php",
+		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Http/Controllers/Api/Stripe/IntentController.php",
+		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Http/Controllers/Api/Admin/DonorController.php",
+		"/C/xampp/htdocs/islamchaneladminoriginal/app/Http/Controllers/Api/Donor/DonorController.php",
+		"/C/xampp/htdocs/islamchaneladminoriginal/app/Http/Controllers/Api/PublicWebsite/HomePageController.php",
+		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Http/Controllers/Api/Admin/CampaignController.php",
+		"/C/xampp/htdocs/ISG/islamchaneladmin/database/migrations/2019_12_11_162940_create_donors_table.php",
+		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Http/Requests/CreateCharityRequest.php",
+		"/C/xampp/htdocs/ISG/islamchaneladmin/database/migrations/2019_12_12_190320_create_campaigns_table.php",
+		"/C/xampp/htdocs/ISG/islamchaneladmin/database/migrations/2020_02_23_131050_create_donations_table.php",
+		"/C/xampp/htdocs/ISG/islamchaneladmin/database/migrations/2020_03_17_121807_create_gift_aids_table.php",
+		"/C/xampp/htdocs/ISG/islamchaneladmin/database/migrations/2019_12_12_190246_create_charities_table.php",
+		"/C/xampp/htdocs/ISG/islamchaneladmin/database/migrations/2019_12_13_164349_create_transactions_table.php",
+		"/C/xampp/htdocs/ISG/islamchaneladmin/database/migrations/2020_02_04_181606_create_donor_passwords_table.php",
+		"/C/xampp/htdocs/islamchaneladminoriginal/app/Http/Controllers/Api/Admin/CampaignController.php",
+		"/C/xampp/htdocs/ISG/islamchaneladmin/vendor/spatie/laravel-permission/src/Contracts/Role.php",
+		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Account.php",
+		"/C/xampp/htdocs/islamchaneladminoriginal/app/Http/Controllers/Api/Admin/CharityController.php",
+		"/C/xampp/htdocs/islamchaneladminoriginal/app/Http/Controllers/Api/Admin/AccountController.php",
+		"/C/xampp/htdocs/islamchaneladminoriginal/app/Http/Controllers/Api/Donor/DonationController.php",
+		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Http/Controllers/Api/Admin/CityController.php",
+		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Http/Controllers/Api/Admin/MessagesController.php",
+		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Http/Resources/Donor.php",
+		"/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/views/admin/pages/MainSection.vue",
+		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Http/Requests/DonationTypeRequest.php",
+		"/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/views/admin/types/Types.vue",
+		"/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/views/admin/pages/AboutUs.vue",
+		"/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/views/admin/users/Admins.vue",
+		"/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/views/admin/users/CreateAdmin.vue",
+		"/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/views/admin/pages/Pages.vue",
+		"/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/views/admin/users/Users.vue",
+		"/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/views/admin/campaigns/AddNewCampaignDialog.vue",
+		"/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/views/admin/charities/EditCharityDialog.vue",
 		"/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/views/admin/campaigns/EditCampaignDialog.vue",
+		"/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/views/admin/campaigns/CampaignImagesDialog.vue",
+		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Http/Requests/UploadImageRequest.php",
 		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Http/Resources/CampaginResource.php",
 		"/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/views/admin/campaigns/Campaigns.vue",
-		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Http/Controllers/Api/Admin/CampaignController.php",
-		"/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/views/admin/campaigns/AddNewCampaignDialog.vue",
 		"/C/xampp/htdocs/ISG/islamchaneladmin/routes/admin/campaigns.php",
 		"/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/views/admin/campaigns/CampaignsTable.vue",
 		"/C/xampp/htdocs/ISG/islamchaneladmin/public/swagger/swagger.yaml",
-		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Http/Controllers/Api/Admin/AdminController.php",
 		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Http/Controllers/Api/Auth/Admin/AuthController.php",
 		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Http/Requests/Admin/CreateAdminRequest.php",
 		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Http/Requests/Admin/UpdateAdminRequest.php",
 		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Admin.php",
 		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Http/Resources/AdminResource.php",
-		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Http/Controllers/Api/Admin/RoleController.php",
 		"/C/xampp/htdocs/islamchaneladminoriginal/app/Http/Requests/CreateAdminRequest.php",
-		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Http/Requests/RoleRequest.php",
 		"/C/xampp/htdocs/ISG/islamchaneladmin/vendor/spatie/laravel-permission/src/Models/Role.php",
-		"/C/xampp/htdocs/ISG/islamchaneladmin/database/seeds/RolesAndPermissionsSeeder.php",
-		"/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/views/admin/users/Users.vue",
-		"/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/views/admin/charities/EditCharityDialog.vue",
-		"/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/views/admin/types/Types.vue",
 		"/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/views/admin/types/AddNewType.vue",
-		"/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/views/admin/pages/Pages.vue",
 		"/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/views/admin/campaigns/CampaignsStatistics.vue",
 		"/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/views/admin/charities/AddNewCharityDialog.vue",
 		"/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/views/admin/charities/Charities.vue",
@@ -876,35 +902,24 @@
 		"/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/views/admin/donors/DonorsStatistics.vue",
 		"/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/views/admin/messages/Messages.vue",
 		"/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/views/admin/messages/MessagesStatistics.vue",
-		"/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/views/admin/pages/AboutUs.vue",
 		"/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/store/modules/auth/index.js",
 		"/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/globalComponents.js",
 		"/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/components/Sidebar/UserBlock.vue",
 		"/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/main.js",
 		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Http/Controllers/Api/Admin/DonationController.php",
 		"/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/views/admin/Dashboard.vue",
-		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Http/Controllers/Api/Admin/DonorController.php",
 		"/C/xampp/htdocs/ISG/islamchaneladmin/node_modules/vuetify/dist/vuetify.js.map",
-		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Http/Resources/Donor.php",
 		"/C/xampp/htdocs/ISG/islamchaneladmin/routes/admin/donors.php",
 		"/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/views/admin/donors/DonorProfileDialog.vue",
 		"/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/views/admin/donors/DonorTable.vue",
 		"/C/xampp/htdocs/islamchaneladminoriginal/app/Http/Resources/Donor.php",
 		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Http/Resources/Donation.php",
-		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Http/Controllers/Api/Admin/MessagesController.php",
-		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Http/Controllers/Api/Admin/CityController.php",
 		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Http/Controllers/Api/Admin/MonthlyDonationController.php",
-		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Http/Controllers/Api/Admin/TypeController.php",
-		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Http/Controllers/Api/Admin/AboutUsController.php",
-		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Http/Controllers/Api/Admin/MainSectionController.php",
-		"/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/views/admin/users/Admins.vue",
-		"/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/views/admin/users/CreateAdmin.vue",
 		"/C/xampp/htdocs/ISG/islamchaneladmin/routes/admin/users.php",
 		"/C/xampp/htdocs/islamchaneladminoriginal/app/Http/Requests/ChangeAdminPasswordRequest.php",
 		"/C/xampp/htdocs/islamchaneladminoriginal/routes/admin/users.php",
 		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Image.php",
 		"/C/xampp/htdocs/ISG/islamchaneladmin/storage/app/public/1775_1596526128.png",
-		"/C/xampp/htdocs/islamchaneladminoriginal/app/Http/Controllers/Api/Admin/CharityController.php",
 		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Http/Controllers/Api/Donor/DonationController.php",
 		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Console/Kernel.php",
 		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Exceptions/Handler.php",
@@ -927,10 +942,8 @@
 		"/C/xampp/htdocs/ISG/islamchaneladmin/database/migrations/2020_07_02_084900_add_status_to_donations_table.php",
 		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Http/Resources/AppealTypeRescource.php",
 		"/C/xampp/htdocs/ISG/islamchaneladmin/database/migrations/2020_06_26_095417_alter_table_gift_aids.php",
-		"/C/xampp/htdocs/ISG/islamchaneladmin/routes/api.php",
 		"/C/xampp/htdocs/ISG/islamchaneladmin/app/MainSection.php",
 		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Donation.php",
-		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Charity.php",
 		"/C/xampp/htdocs/ISG/islamchaneladmin/.env",
 		"/C/xampp/htdocs/islamchaneladminoriginal/app/Http/Controllers/Api/Admin/MainSectionController.php",
 		"/C/xampp/htdocs/islamchaneladminoriginal/app/Http/Controllers/Api/Admin/AboutUsController.php",
@@ -939,34 +952,11 @@
 		"/C/xampp/htdocs/islamchaneladminoriginal/app/Http/Controllers/Api/Admin/DonorController.php",
 		"/D/Ahmed Essa/laravel/under development/Lets-Build-a-Forum-in-Laravel/app/Rules/Recaptcha.php",
 		"/D/Ahmed Essa/laravel/under development/Lets-Build-a-Forum-in-Laravel/app/Rules/SpamFree.php",
-		"/D/Ahmed Essa/laravel/under development/Lets-Build-a-Forum-in-Laravel/.env.example",
-		"/C/xampp/htdocs/islamchaneladminoriginal/app/Http/Controllers/Api/Auth/Admin/AuthController.php",
-		"/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/router/index.js",
-		"/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/views/session/LoginOne.vue",
-		"/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/router/default.js",
-		"/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/helpers/helpers.js",
-		"/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/components/AppCard/AppCardContent.vue",
-		"/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/App.vue",
-		"/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/bootstrap.js",
-		"/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/api/index.js",
-		"/C/xampp/htdocs/ISG/islamchaneladmin/routes/admin/roles.php",
-		"/C/xampp/htdocs/ISG/islamchaneladmin/routes/admin/permissions.php",
-		"/C/xampp/htdocs/ISG/islamchaneladmin/database/seeds/DatabaseSeeder.php",
-		"/C/xampp/htdocs/ISG/islamchaneladmin/vendor/tymon/jwt-auth/src/Contracts/Providers/Storage.php",
-		"/C/xampp/htdocs/ISG/islamchaneladmin/database/seeds/CountrySeeder.php",
-		"/C/xampp/htdocs/ISG/islamchaneladmin/database/migrations/2020_07_28_102315_create_cities_table.php",
-		"/C/xampp/htdocs/ISG/islamchaneladmin/database/migrations/2020_07_28_124058_create_countries_table.php",
-		"/C/xampp/htdocs/ISG/islamchaneladmin/database/seeds/StateSeeder.php",
-		"/C/Users/HP/Downloads/islamchanel (1).sql",
-		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Http/Resources/AppealRescource.php",
-		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Mail/activationMail.php",
-		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Services/TransactionService.php",
-		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Console/Commands/TransferInstallments.php",
-		"/C/xampp/htdocs/ISG/islamchaneladmin/app/Services/DonorService.php"
+		"/D/Ahmed Essa/laravel/under development/Lets-Build-a-Forum-in-Laravel/.env.example"
 	],
 	"find":
 	{
-		"height": 70.0
+		"height": 25.0
 	},
 	"find_in_files":
 	{
@@ -1013,6 +1003,18 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"HomePageController",
+			"Can",
+			"charityDB",
+			"charity",
+			"charityDB",
+			"SuccessMessage",
+			"data",
+			"snackbar",
+			"EditCampaignDialog",
+			"$",
+			",",
+			":",
 			"dropzoneOptions",
 			"imgId",
 			"test",
@@ -1128,19 +1130,7 @@
 			"erroe",
 			"charity_",
 			"ite",
-			"id",
-			"Permissions",
-			"permissions",
-			"Donations",
-			"donations",
-			"user",
-			"            'charity_id' => 1,\n",
-			"dd",
-			".*'",
-			"permission",
-			"permissions",
-			"role",
-			"roles"
+			"id"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1164,24 +1154,24 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/views/admin/campaigns/AddNewCampaignDialog.vue",
+					"file": "/C/xampp/htdocs/ISG/islamchaneladmin/app/Http/Controllers/Api/Admin/CharityController.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 20094,
+						"buffer_size": 7112,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								18416,
-								18427
+								6268,
+								6268
 							]
 						],
 						"settings":
@@ -1193,8 +1183,8 @@
 								{
 									"1":
 									[
-										18764,
-										18765
+										6267,
+										6268
 									]
 								},
 								"icon":
@@ -1209,8 +1199,8 @@
 								{
 									"1":
 									[
-										18395,
-										18396
+										6171,
+										6172
 									]
 								},
 								"unmatched":
@@ -1224,11 +1214,11 @@
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
@@ -1239,6 +1229,11 @@
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
@@ -1249,167 +1244,53 @@
 								"bh_tag_open",
 								"bh_tag_close",
 								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content"
-							],
-							"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 5226.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/C/xampp/htdocs/ISG/islamchaneladmin/resources/js/views/admin/campaigns/CampaignImagesDialog.vue",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 11798,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								9077,
-								9077
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-									"1":
-									[
-										8698,
-										8699
-									]
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content"
+								"bh_angle_content"
 							],
-							"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax",
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 2523.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "/C/xampp/htdocs/ISG/islamchaneladmin/app/Http/Controllers/Api/Admin/CampaignController.php",
+					"buffer": 1,
+					"file": "/C/xampp/htdocs/ISG/islamchaneladmin/routes/admin/charities.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4271,
+						"buffer_size": 1185,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3161,
-								3161
+								584,
+								606
 							]
 						],
 						"settings":
@@ -1421,24 +1302,24 @@
 								{
 									"1":
 									[
-										3166,
-										3167
+										606,
+										607
 									]
 								},
 								"icon":
 								{
 									"1":
 									[
-										"Packages/BracketHighlighter/icons/curly_bracket.png",
-										"region.purplish"
+										"Packages/BracketHighlighter/icons/single_quote.png",
+										"region.greenish"
 									]
 								},
 								"open":
 								{
 									"1":
 									[
-										2834,
-										2835
+										555,
+										556
 									]
 								},
 								"unmatched":
@@ -1447,36 +1328,6 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
@@ -1497,6 +1348,36 @@
 								"bh_unmatched_open",
 								"bh_unmatched_close",
 								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
@@ -1508,10 +1389,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1150.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -1519,7 +1400,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 24.0
+		"height": 25.0
 	},
 	"input":
 	{
@@ -1550,7 +1431,7 @@
 	"menu_visible": true,
 	"output.SublimeLinter":
 	{
-		"height": 0.0
+		"height": 120.0
 	},
 	"output.find_results":
 	{
@@ -1560,7 +1441,7 @@
 	"project": "islamchaneladmin.sublime-project",
 	"replace":
 	{
-		"height": 44.0
+		"height": 46.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1570,6 +1451,90 @@
 		"selected_items":
 		[
 			[
+				"chariti",
+				"islamchaneladmin\\routes\\admin\\charities.php"
+			],
+			[
+				"charityc",
+				"islamchaneladmin\\app\\Http\\Controllers\\Api\\Admin\\CharityController.php"
+			],
+			[
+				"charity",
+				"islamchaneladmin\\app\\Charity.php"
+			],
+			[
+				"charitypo",
+				"islamchaneladmin\\app\\Policies\\CharityPolicy.php"
+			],
+			[
+				"adminpoli",
+				"islamchaneladmin\\app\\Policies\\AdminPolicy.php"
+			],
+			[
+				"admicont",
+				"islamchaneladmin\\app\\Http\\Controllers\\Api\\Admin\\AdminController.php"
+			],
+			[
+				"campaignpo",
+				"islamchaneladmin\\app\\Policies\\CampaignPolicy.php"
+			],
+			[
+				"RoleRequest",
+				"islamchaneladmin\\app\\Http\\Requests\\RoleRequest.php"
+			],
+			[
+				"rolecont",
+				"islamchaneladmin\\app\\Http\\Controllers\\Api\\Admin\\RoleController.php"
+			],
+			[
+				"rolesee",
+				"islamchaneladmin\\database\\seeds\\RolesAndPermissionsSeeder.php"
+			],
+			[
+				"api",
+				"islamchaneladmin\\routes\\api.php"
+			],
+			[
+				"DonorController",
+				"islamchaneladmin\\app\\Http\\Controllers\\Api\\Donor\\DonorController.php"
+			],
+			[
+				"campaignc",
+				"islamchaneladminoriginal\\app\\Http\\Controllers\\Api\\Admin\\CampaignController.php"
+			],
+			[
+				"CreateCharityRequest",
+				"islamchaneladmin\\app\\Http\\Requests\\CreateCharityRequest.php"
+			],
+			[
+				"role",
+				"islamchaneladmin\\vendor\\spatie\\laravel-permission\\src\\Contracts\\Role.php"
+			],
+			[
+				"Donor",
+				"islamchaneladmin\\app\\Http\\Resources\\Donor.php"
+			],
+			[
+				"DonationTypeRequest",
+				"islamchaneladmin\\app\\Http\\Requests\\DonationTypeRequest.php"
+			],
+			[
+				"adminc",
+				"islamchaneladmin\\app\\Http\\Controllers\\Api\\Admin\\AdminController.php"
+			],
+			[
+				"admincont",
+				"islamchaneladmin\\app\\Http\\Controllers\\Api\\Admin\\AdminController.php"
+			],
+			[
+				"mainsec",
+				"islamchaneladmin\\app\\Http\\Controllers\\Api\\Admin\\MainSectionController.php"
+			],
+			[
+				"aboutusc",
+				"islamchaneladmin\\app\\Http\\Controllers\\Api\\Admin\\AboutUsController.php"
+			],
+			[
 				"UploadImageRequest",
 				"islamchaneladmin\\app\\Http\\Requests\\UploadImageRequest.php"
 			],
@@ -1578,20 +1543,12 @@
 				"islamchaneladminoriginal\\app\\Http\\Controllers\\Api\\Admin\\CampaignController.php"
 			],
 			[
-				"charityc",
-				"islamchaneladmin\\app\\Http\\Controllers\\Api\\Admin\\CharityController.php"
-			],
-			[
 				"charitycont",
 				"islamchaneladmin\\app\\Http\\Controllers\\Api\\Admin\\CharityController.php"
 			],
 			[
 				"campac",
 				"islamchaneladminoriginal\\app\\Http\\Controllers\\Api\\Admin\\CampaignController.php"
-			],
-			[
-				"campaignc",
-				"islamchaneladmin\\app\\Http\\Controllers\\Api\\Admin\\CampaignController.php"
 			],
 			[
 				"campaignco",
@@ -1638,16 +1595,8 @@
 				"islamchaneladmin\\app\\Http\\Requests\\Admin\\CreateAdminRequest.php"
 			],
 			[
-				"adminc",
-				"islamchaneladmin\\app\\Http\\Controllers\\Api\\Admin\\AdminController.php"
-			],
-			[
 				"Spatie\\Permission\\Models\\Role",
 				"islamchaneladmin\\vendor\\spatie\\laravel-permission\\src\\Models\\Role.php"
-			],
-			[
-				"role",
-				"islamchaneladmin\\database\\seeds\\RolesAndPermissionsSeeder.php"
 			],
 			[
 				"adminreq",
@@ -1726,10 +1675,6 @@
 				"islamchaneladmin\\app\\Http\\Controllers\\Api\\Admin\\DonationController.php"
 			],
 			[
-				"chariti",
-				"islamchaneladmin\\routes\\admin\\charities.php"
-			],
-			[
 				"users",
 				"islamchaneladmin\\routes\\admin\\users.php"
 			],
@@ -1772,14 +1717,6 @@
 			[
 				"donation",
 				"islamchaneladmin\\app\\Donation.php"
-			],
-			[
-				"charity",
-				"islamchaneladmin\\app\\Charity.php"
-			],
-			[
-				"api",
-				"islamchaneladmin\\routes\\api.php"
 			],
 			[
 				"MainSection",
@@ -1986,10 +1923,6 @@
 				"islamchaneladmin\\app\\Http\\Controllers\\Api\\Admin\\MessagesController.php"
 			],
 			[
-				"rolecont",
-				"islamchaneladmin\\app\\Http\\Controllers\\Api\\Admin\\RoleController.php"
-			],
-			[
 				"rolecon",
 				"islamchaneladmin\\app\\Http\\Controllers\\Api\\Admin\\RoleController.php"
 			],
@@ -2028,58 +1961,6 @@
 			[
 				"roles",
 				"islamchaneladmin\\routes\\admin\\roles.php"
-			],
-			[
-				"apic",
-				"islamchaneladmin\\app\\Http\\Controllers\\Api\\ApiController.php"
-			],
-			[
-				"appealrequest",
-				"islamchaneladmin\\app\\Http\\Requests\\AppealRequest.php"
-			],
-			[
-				"PermissionRequest",
-				"islamchaneladmin\\app\\Http\\Requests\\PermissionRequest.php"
-			],
-			[
-				"PermissionController",
-				"islamchaneladmin\\app\\Http\\Controllers\\PermissionController.php"
-			],
-			[
-				"month",
-				"islamchaneladmin\\app\\Policies\\MonthlyDonationPolicy.php"
-			],
-			[
-				"authser",
-				"islamchaneladmin\\app\\Providers\\AuthServiceProvider.php"
-			],
-			[
-				"donationpo",
-				"islamchaneladmin\\app\\Policies\\DonationPolicy.php"
-			],
-			[
-				"authcon",
-				"islamchaneladmin\\app\\Http\\Controllers\\Api\\Auth\\Admin\\AuthController.php"
-			],
-			[
-				"donor",
-				"islamchaneladmin\\app\\Donor.php"
-			],
-			[
-				"donorpo",
-				"islamchaneladmin\\app\\Policies\\DonorPolicy.php"
-			],
-			[
-				"appealco",
-				"islamchaneladmin\\app\\Http\\Controllers\\Api\\Admin\\AppealController.php"
-			],
-			[
-				"appealpo",
-				"islamchaneladmin\\app\\Policies\\AppealPolicy.php"
-			],
-			[
-				"donationpol",
-				"islamchaneladmin\\app\\Policies\\DonationPolicy.php"
 			]
 		],
 		"width": 0.0

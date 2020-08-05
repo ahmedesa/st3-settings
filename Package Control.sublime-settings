@@ -39,6 +39,7 @@
 		"SideBarEnhancements",
 		"SnippetMaker",
 		"SublimeLinter",
+		"SublimeLinter-php",
 		"SublimeLinter-phpcs",
 		"Terminal",
 		"Vue Syntax Highlight"
